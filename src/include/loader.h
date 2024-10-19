@@ -1,0 +1,1 @@
+int load(const char* image_file);
